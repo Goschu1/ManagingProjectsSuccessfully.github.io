@@ -4,7 +4,7 @@ tags: agil klassisch
 author: Goschu1
 anrechnung: k 
 ---
-Dieser Artikel handelt von exemplarischen erfolgreichen Großprojekten, die Unternehmen und sogar einen Staat maßgeblich vorangebracht haben. Wie Erfolg im Projektmanagement definiert ist und gemessen wird könnnen Sie [hier](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Erfolgsmessung.md) nachlesen. 
+Dieser Artikel handelt von exemplarischen erfolgreichen Großprojekten, die Unternehmen und sogar einen Staat maßgeblich vorangebracht haben. Wie Erfolg im Projektmanagement definiert ist und gemessen wird könnnen Sie [hier](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Erfolgsmessung.md) nachschlagen. 
 
 
 # Einführung des iPhones
